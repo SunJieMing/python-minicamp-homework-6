@@ -27,7 +27,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 2. Create a separate `index.html` and `styles.css` in a separate folder and do your best to copy this webpage: https://lambdaschool.com/
 	
-    * You can copy the images by right clicking and selecting "Copy Image Address"
+    * You can copy the images by right clicking and selecting "Copy Image Address".  Paste the address into an `<img>` tag's `src` attribute.
     * You can achieve translucent backgrounds with `rgba` colors. Example: `rgba(200, 200, 200, .5)` The `.5` (alpha value) controls the transparency.
 
 
